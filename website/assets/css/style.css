@@ -50,8 +50,15 @@ body{
     background-color: white;
     padding: 50px;
 }
+.portfolio {
+    background-color: white;
+    padding: 50px;
+}
 
 .mb-3 {
-    background-color: #cccc;
+    background-color: rgb(239, 239, 239);
+    padding: 50px;
+    width: 740px;
+    margin: 0 auto;
     
 }
