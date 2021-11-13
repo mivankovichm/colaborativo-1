@@ -44,3 +44,14 @@ body{
 .titule {
     font-size: 35px;
 }
+
+/* css contacto */
+.contact {
+    background-color: white;
+    padding: 50px;
+}
+
+.mb-3 {
+    background-color: #cccc;
+    
+}
