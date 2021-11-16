@@ -39,7 +39,7 @@ body{
     padding: 50px;
 }
 .gray {
-    color:gray
+    color:gray;
 }
 .titule {
     font-size: 35px;
@@ -52,7 +52,19 @@ body{
 }
 .portfolio {
     background-color: white;
-    padding: 50px;
+   
+}
+
+.portfolio h3 {
+    color: rgb(55, 99, 154);
+
+   
+}
+
+.portfolio #parrafoinside {
+    font-size: 14px;
+    padding-right: 10%;
+    
 }
 
 .mb-3 {
