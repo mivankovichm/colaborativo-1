@@ -41,6 +41,14 @@ body{
 .gray {
     color:gray
 }
-.titule {
+/*.titule {
     font-size: 35px;
+}*/
+.imagen2 {
+    background-image: url(../img/2.jpg);
+    height: 350px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 100%;
+    background-position: left;
 }
